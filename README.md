@@ -1,2 +1,2 @@
 # library-management
-A library system.
+A library management system.
